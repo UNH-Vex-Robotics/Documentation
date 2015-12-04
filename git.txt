@@ -1,4 +1,3 @@
-
 Terminology:
     Repo / Repository
         A repository (if you dont know what it means, look it up) that commits can be pushed and pulled from.
