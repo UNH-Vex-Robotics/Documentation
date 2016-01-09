@@ -57,3 +57,5 @@ git log
     Shows a log of commits.
     git log --graph --oneline --pretty
         Shows a different view of the same information.
+git remote
+    Lists Remotes. Can be used to change origin, etc.
